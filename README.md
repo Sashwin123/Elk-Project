@@ -2,9 +2,7 @@ ELK-PROJECT
 
 <img width="539" alt="94220166-02070300-feae-11ea-958e-7dfb9d3862e9 12" src="https://user-images.githubusercontent.com/93232058/142307216-646fde72-b2f4-4b3d-b3c9-c272abe23091.png">
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above.
-Alternatively, select portions of the alpha.yml file may be used to install only certain pieces of it, such as Filebeat.
 
-Roles/alpha.yml
 
 This document contains the following details:
 
